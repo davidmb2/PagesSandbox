@@ -25,6 +25,13 @@
     }
   }
 
+  try {
+    document.title = document.querySelector('h1').textContent
+  } catch (e) {
+    document.title = file2;
+  }
+  }
+
   xhr.open('GET', file);
   xhr.open('GET', file2);
   xhr.send();
