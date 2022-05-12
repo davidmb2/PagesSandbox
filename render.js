@@ -21,8 +21,8 @@
     try {
       document.title = document.querySelector('h1').textContent
     } catch (e) {
-/*    document.title = file;*/
-      document.title = file2;
+      document.title = file;
+      /*document.title = file2;*/
     }
   }
 
