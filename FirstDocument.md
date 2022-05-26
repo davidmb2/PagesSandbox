@@ -1,9 +1,9 @@
 # This is a document sample made in MarkDown
 
-Below is a list of the projects I've been working on since I joined Wizeline
+Below is a list of the projects I've been working on since I joined X
 
-- Gentera
-- Kellogg
+- KittyCat
+- Boulder
 
 ## This section describes the steps to get into the office:
 
